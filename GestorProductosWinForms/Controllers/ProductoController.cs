@@ -11,6 +11,7 @@ namespace GestorProductosWinForms.Controllers
     public class ProductoController
     {
         private List<Producto> productos;
+        private int proximoId = 1;
 
         public ProductoController()
         {
@@ -20,7 +21,12 @@ namespace GestorProductosWinForms.Controllers
 
         public void agregarProducto(string nombre, decimal precio, int stock)
         {
-            Producto productos = new Producto(nombre, precio, stock);
+            Producto producto = new Producto(nombre, precio, stock);
+
+            producto.Id = proximoId;
+            proximoId++;
+
+            productos.Add(producto);
         }
 
         public List<Producto> ObtenerProductos()

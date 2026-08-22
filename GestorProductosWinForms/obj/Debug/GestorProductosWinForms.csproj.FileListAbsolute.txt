@@ -1,0 +1,10 @@
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\bin\Debug\GestorProductosWinForms.exe.config
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\bin\Debug\GestorProductosWinForms.exe
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\bin\Debug\GestorProductosWinForms.pdb
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.csproj.AssemblyReference.cache
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.Form1.resources
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.Properties.Resources.resources
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.csproj.GenerateResource.cache
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.csproj.CoreCompileInputs.cache
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.exe
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.pdb

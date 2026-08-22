@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\",
+  "WorkspaceRootPath": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\guia ejercitacion n1- agustin postiglione\\gestorproductoswinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\guia ejercitacion n1- agustin postiglione\\gestorproductoswinforms\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\guia ejercitacion n1- agustin postiglione\\gestorproductoswinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\guia ejercitacion n1- agustin postiglione\\gestorproductoswinforms\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\proyecto winforms\\gestorproductoswinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\proyecto winforms\\gestorproductoswinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|d:\\facu\\segundo a\u00F1o t.d.s\\programaci\u00F3n ii\\guia ejercitacion n1- agustin postiglione\\gestorproductoswinforms\\models\\ientidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\models\\ientidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F731DCD-315E-4147-A36B-2FA2D255CFDE}|GestorProductosWinForms.csproj|solutionrelative:models\\ientidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T22:47:19.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Form1.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-22T22:25:31.305Z",
               "EditorCaption": ""
@@ -49,49 +66,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-22T22:19:20.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Models\\Producto.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Models\\Producto.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Models\\Producto.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Models\\Producto.cs",
               "RelativeToolTip": "Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T22:19:13.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T22:19:13.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IEntidad.cs",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Models\\IEntidad.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Models\\IEntidad.cs",
               "RelativeDocumentMoniker": "Models\\IEntidad.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Models\\IEntidad.cs",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Models\\IEntidad.cs",
               "RelativeToolTip": "Models\\IEntidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T22:18:55.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T22:18:55.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Form1.cs",
+              "DocumentMoniker": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Guia ejercitacion N1- Agustin Postiglione\\GestorProductosWinForms\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "D:\\Facu\\Segundo A\u00F1o T.D.S\\Programaci\u00F3n II\\Proyecto WinForms\\GestorProductosWinForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-22T22:18:12.414Z",
               "EditorCaption": " [Dise\u00F1o]"
