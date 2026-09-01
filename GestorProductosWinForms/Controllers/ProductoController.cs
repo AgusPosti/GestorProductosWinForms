@@ -19,7 +19,7 @@ namespace GestorProductosWinForms.Controllers
         }
 
 
-        public void agregarProducto(string nombre, decimal precio, int stock)
+        public void AgregarProducto(string nombre, decimal precio, int stock)
         {
             Producto producto = new Producto(nombre, precio, stock);
 
@@ -27,6 +27,35 @@ namespace GestorProductosWinForms.Controllers
             proximoId++;
 
             productos.Add(producto);
+        }
+
+        public void Eliminar(int id)
+        {
+            productos.RemoveAll(p => p.Id == id);
+        }
+        
+        public void Modificar(Producto modificado)
+        {
+            var p = productos.Find(x => x.Id == modificado.Id);
+            if (p == null) return;
+            p.Nombre = modificado.Nombre;
+            p.Precio = modificado.Precio;
+            p.Stock = modificado.Stock;
+        }
+
+        public List<Producto> BuscarPorNombre(string texto)
+        {
+            if (string.IsNullOrWhiteSpace(texto))
+            {
+                return ObtenerProductos().ToList();
+            }
+
+            return ObtenerProductos()
+                .Where(p => p.Nombre != null &&
+                            p.Nombre.IndexOf(
+                                texto.Trim(),
+                                StringComparison.OrdinalIgnoreCase) >= 0)
+                .ToList();
         }
 
         public List<Producto> ObtenerProductos()
