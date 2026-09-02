@@ -20,11 +20,11 @@ namespace GestorProductosWinForms
     {
         private ProductoController productoController;
         private BindingSource productosSource = new BindingSource();
-        public Form1()
+        public Form1(ProductoController pController)
         {
             InitializeComponent();
 
-            productoController = new ProductoController();
+            productoController = pController;
 
             dataGridViewProductos.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridViewProductos.MultiSelect = false;
