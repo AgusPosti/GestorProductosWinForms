@@ -11,13 +11,28 @@ namespace GestorProductosWinForms.Controllers
     public class ProductoController
     {
         private List<Producto> productos;
+        private IRepository<Producto> repositorio;
         private int proximoId = 1;
 
-        public ProductoController()
+        public ProductoController(IRepository<Producto> repositorio)
         {
-            productos = new List<Producto>();
+            this.repositorio = repositorio;
+            productos = repositorio.LeerTodos();
+
+            if (productos.Count > 0)
+            {
+                proximoId = productos.Max(p => p.Id) + 1;
+            }
+            else
+            {
+                proximoId = 1;
+            }
         }
 
+        private void Recargar()
+        {
+            productos = repositorio.LeerTodos();
+        }
 
         public void AgregarProducto(string nombre, decimal precio, int stock)
         {
@@ -26,21 +41,29 @@ namespace GestorProductosWinForms.Controllers
             producto.Id = proximoId;
             proximoId++;
 
-            productos.Add(producto);
+            //productos.Add(producto);
+            repositorio.Agregar(producto);
+            Recargar();
         }
 
         public void Eliminar(int id)
         {
-            productos.RemoveAll(p => p.Id == id);
+            //productos.RemoveAll(p => p.Id == id);
+            repositorio.Eliminar(id);
+            Recargar();
+            
         }
         
         public void Modificar(Producto modificado)
         {
-            var p = productos.Find(x => x.Id == modificado.Id);
+            /*var p = productos.Find(x => x.Id == modificado.Id);
             if (p == null) return;
             p.Nombre = modificado.Nombre;
             p.Precio = modificado.Precio;
-            p.Stock = modificado.Stock;
+            p.Stock = modificado.Stock;*/
+
+            repositorio.Actualizar(modificado);
+            Recargar();
         }
 
         public List<Producto> BuscarPorNombre(string texto)
@@ -60,7 +83,7 @@ namespace GestorProductosWinForms.Controllers
 
         public List<Producto> ObtenerProductos()
         {
-            return productos;
+            return productos.ToList();
         }
     }
 }

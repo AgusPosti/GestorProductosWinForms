@@ -8,3 +8,6 @@ D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWin
 D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.csproj.CoreCompileInputs.cache
 D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.exe
 D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorProductosWinForms.pdb
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\bin\Debug\Newtonsoft.Json.xml
+D:\Facu\Segundo Año T.D.S\Programación II\Proyecto WinForms\GestorProductosWinForms\obj\Debug\GestorPr.4CD58BF9.Up2Date

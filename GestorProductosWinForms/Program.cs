@@ -1,4 +1,5 @@
 ﻿using GestorProductosWinForms.Controllers;
+using GestorProductosWinForms.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +16,16 @@ namespace GestorProductosWinForms
         [STAThread]
         static void Main()
         {
-            //INSTANCIAS   
-            ProductoController pController = new ProductoController();
-
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            //INSTANCIAS   
+            IRepository<Producto> repositorio =
+                new JsonRepository<Producto>("datos/producto.json");
+
+            ProductoController pController =
+                new ProductoController(repositorio);
+
             Application.Run(new Form1(pController));
         }
     }

@@ -24,7 +24,7 @@ namespace GestorProductosWinForms
         {
             InitializeComponent();
 
-            productoController = pController;
+            this.productoController = pController;
 
             dataGridViewProductos.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridViewProductos.MultiSelect = false;
